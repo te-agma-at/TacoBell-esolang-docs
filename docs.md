@@ -19,6 +19,14 @@ These all start with the @ symbol and have different purposes, so basically like
 @lessbeef (variable1-name) (variable2-name) - Performs a less-than comparison operation between the two Variables given
 <br>
 @equalbeef (variable1-name) (variable2-name) - Performs an equal-to comparison operation between the two Variables given
-<br>
 
 ## Code Blocks
+### "iter" Loops
+!iter ((variable-name) in (min-range)..(max-range)) {
+<br>
+  // code here
+<br>
+}
+<br>
+These blocks are like "for" loops, iterating the code below a specific given amount of times.
+
