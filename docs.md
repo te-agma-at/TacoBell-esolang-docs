@@ -24,7 +24,7 @@ These all start with the @ symbol and have different purposes, so basically like
 
 ## Code Blocks
 ### "foodrush"
-!foodrush ((variable-name) >> (min-range)..(max-range); (variable-name)++) {
+!foodrush ((variable-name) >> (min-range)..(max-range)) {
 <br>
 
 
@@ -32,7 +32,7 @@ These all start with the @ symbol and have different purposes, so basically like
 <br>
 
 
-These blocks are like "for" loops, iterating the code below a specific given amount of times when assigned a variable to iterate over.
+These blocks are like "for" loops, iterating the code below a specific given amount of times when assigned a variable to iterate and increment over.
 ### "task"
 !task ((condition)) {
 <br>
