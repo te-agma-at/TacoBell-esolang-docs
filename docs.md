@@ -1,4 +1,4 @@
-# Basic Keywords
+## Basic Keywords
 <br>
 These all start with the @ symbol and have different purposes, so basically like built-in functions
 <br>
@@ -20,5 +20,5 @@ These all start with the @ symbol and have different purposes, so basically like
 <br>
 @equalbeef (variable1-name) (variable2-name) - Performs an equal-to comparison operation between the two Variables given
 <br>
-<br>
-# Code Blocks
+
+## Code Blocks
