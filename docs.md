@@ -22,7 +22,7 @@ These all start with the @ symbol and have different purposes, so basically like
 
 ## Code Blocks
 ### "foodrush" Loops
-!foodrush ((variable-name) in (min-range)..(max-range)) {
+!foodrush ((variable-name) >> (min-range)..(max-range); (variable-name)++) {
 <br>
 
 
@@ -30,7 +30,7 @@ These all start with the @ symbol and have different purposes, so basically like
 <br>
 
 
-These blocks are like "for" loops, iterating the code below a specific given amount of times.
+These blocks are like "for" loops, iterating the code below a specific given amount of times when assigned a variable to iterate over.
 ### "crunchwrap" Loops
 !crunchwrap ((condition)) {
 <br>
