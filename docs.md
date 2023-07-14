@@ -21,8 +21,8 @@ These all start with the @ symbol and have different purposes, so basically like
 @equalbeef (variable1-name) (variable2-name) - Performs an equal-to comparison operation between the two Variables given
 
 ## Code Blocks
-### "iter" Loops
-!iter ((variable-name) in (min-range)..(max-range)) {
+### "foodrush" Loops
+!foodrush ((variable-name) in (min-range)..(max-range)) {
 <br>
 
 
@@ -31,4 +31,14 @@ These all start with the @ symbol and have different purposes, so basically like
 
 
 These blocks are like "for" loops, iterating the code below a specific given amount of times.
+### "crunchwrap" Loops
+!crunchwrap ((condition)) {
+<br>
+
+
+}
+<br>
+
+
+These blocks are like "if-then" blocks, only outputting if the condition above results to TRUE
 
