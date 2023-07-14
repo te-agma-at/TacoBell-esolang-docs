@@ -52,6 +52,6 @@ These blocks are like "if-then" blocks, only running the code within it if the c
 <br>
 
 
-"taco" blocks are basically functions; they run the code within it when it is called using the @order keyword.
+"taco" blocks are basically functions; they run the code within it when it is called using the @order keyword, with optional parameter variables.
 
 
