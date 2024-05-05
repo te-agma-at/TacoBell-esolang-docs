@@ -6,6 +6,8 @@ These all start with the @ symbol and have different purposes, so basically like
 <br>
 @shit (variable-name) (value) - Assigns a value to a Variable. (Can be strings, numbers (decimal OR integer), booleans, etc.)
 <br>
+@inside (variable-name) - Returns the value of a Variable. Can be used in value arguments.
+<br>
 @cook (variable-name) (type) - Casts a Type to a Variable
 <br>
 @serve (ascii-value) - Prints a character with the Ascii Value given onto the Output Table
