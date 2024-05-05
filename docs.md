@@ -55,6 +55,22 @@ These blocks are like "for" loops, iterating the code below a specific given amo
 
 
 These blocks are like "if-then" blocks, only running the code within it if the condition above results to TRUE
+
+#### "task" > "fired"
+!task ((condition)) {
+<br>
+
+
+} !fired {
+<br>
+
+
+}
+<br>
+
+
+Like "if-then-else" blocks, with "task" being the "if" and "fired" being the else, running code within the "fired" block if the condition above results to FALSE
+
 ### "taco"
 !taco ((parameters)) {
 <br>
