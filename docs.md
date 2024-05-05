@@ -20,6 +20,8 @@ These all start with the @ symbol and have different purposes, so basically like
 <br>
 @serve (ascii-value) - Prints a character with the Ascii Value given onto the Output Table
 <br>
+@servestring (string-value) - Prints a string value onto the Output Table
+<br>
 @maintenance (number-value) - Halts any code that is currently running for a given number of seconds.
 <br>
 @clog (variable-name) (constant-value) - Assigns a constant value to a Variable.
